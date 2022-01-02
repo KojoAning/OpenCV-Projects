@@ -20,5 +20,6 @@ while True:
 
     if cv.waitKey(1) == ord('e'):   #press e on the keyboard to exit
         break
+        
 capture.release()
 cv.destroyAllWindows() 
