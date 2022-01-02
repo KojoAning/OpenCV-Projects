@@ -22,4 +22,4 @@ haarcascade xml files link = https://github.com/opencv/opencv/tree/master/data/h
 
 * Face_detection.py  *for face detection
 * eye_detection.py   *for eye detetion
-* opencv_face_and_eye_detection  *Combines both face and eye detection
+* opencv_face_and_eye_detection.py  *Combines both face and eye detection
