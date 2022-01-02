@@ -19,3 +19,7 @@ haarcascade xml files link = https://github.com/opencv/opencv/tree/master/data/h
 * For cv.VideoCapture('Brazil.mp4'),Brazil.mp4 is a video file that can be found at the following link https://drive.google.com/file/d/1_bIes60MP88mF8b5a-6EZrNiumZFc2uK/view?usp=sharing
 
 * You can also replace the video file with yours but make sure the video file is in the same directory as your python file or copy the file path and paste if it is not found in the same directory
+
+* Face_detection.py  *for face detection
+* eye_detection.py   *for eye detetion
+* face_and_eye_detection  *Combines both face and eye detection
