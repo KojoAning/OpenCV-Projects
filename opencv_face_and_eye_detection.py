@@ -12,7 +12,7 @@ while True:
     face_detection = haarcascade_face.detectMultiScale(frame,1.1,4) #use haarcascade to detect faces
     eye_detection = haarcascade_eye.detectMultiScale(frame,1.1,4) #use haarcascade to detect eyes
 
-    # Rectangle boundary around face
+    # Rectangle boundary around face and eye
     for (x,y,w,h) in face_detection:
         frame=cv.rectangle(frame,(x,y),(x+w,y+h),(255,255,255),thickness= 3)
 
