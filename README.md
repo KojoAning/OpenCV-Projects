@@ -16,6 +16,6 @@ haarcascade xml files link = https://github.com/opencv/opencv/tree/master/data/h
 
 ## NOTE
 
-* For cv.VideoCapture('Brazil.mp4'),Brazil.mp4 is a video file that can be found at the following link 
+* For cv.VideoCapture('Brazil.mp4'),Brazil.mp4 is a video file that can be found at the following link https://drive.google.com/file/d/1_bIes60MP88mF8b5a-6EZrNiumZFc2uK/view?usp=sharing
 
 * You can also replace the video file with yours but make sure the video file is in the same directory as your python file or copy the file path and paste if it is not found in the same directory
